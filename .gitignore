@@ -1,0 +1,15 @@
+# local environment configuration
+.env*
+
+# ignore local editor-specific config
+.vimrc
+
+# build assets
+*.o
+*.so
+
+# tools-generated output files
+*.out
+
+# local Lua dependencies
+lua_modules/
