@@ -13,3 +13,6 @@
 
 # local Lua dependencies
 lua_modules/
+
+# luarocks packages
+*.src.rock
